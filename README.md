@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lucasguimaraes
+- 👀 I’m interested in  ajudar quem estiver precisando!
+- 🌱 I’m currently learning  mais  a desenvolver com a linguagem PHP!
+- 💞️ I’m looking to collaborate on  revi~so de codigos de JavaScript até desgner Css!
+- 📫 How to reach me  o meu instagram é @_lucasguimaraesdev
